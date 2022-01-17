@@ -1,8 +1,8 @@
 # Election_Analysis
 
 ## Overview of Election Audit
-    Explain the purpose of this election audit analysis.
-
+    The purpose of the election analysis was to assist Tom using python to automate the vote couting process for a local election.
+    
 ## Election-Audit Results
     1. How many votes were cast in this congressional election? 
       - Total Votes: 369,711
@@ -26,7 +26,9 @@
       - Percentage of Votes: 73.8%
 
 ## Election-Audit Summary
+    This code can be used to count elections at a larger scale, not just a local election. 
+    Only a few loops need to be added if there are more fields desired like state, or politcal allignment.
+    Obviously the output would also need to be expanded.
     
-### In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election.
-### Give at least two examples of how this script can be modified to be used for other elections.
+    
     
